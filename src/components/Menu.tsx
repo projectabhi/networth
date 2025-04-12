@@ -29,7 +29,7 @@ const Menu = () => {
       </div>
       <NavbarToggle />
       <NavbarCollapse>
-        <NavbarLink href="/">Home</NavbarLink>
+        <NavbarLink href="/home">Home</NavbarLink>
         <NavbarLink>
           <MegaMenuDropdown toggle={<>Company</>}>
             <ul className="grid grid-cols-3">
