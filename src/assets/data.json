@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "invType": "EPF",
+    "amount": 600000,
+    "dateSubmit": "01/01/1991",
+    "comments": ""
+},
+{
+    "id":2,
+    "invType": "SB",
+    "amount": 600000,
+    "dateSubmit": "01/02/1991",
+    "comments": ""
+},
+{
+    "id":3,
+    "invType": "SSY",
+    "amount": 600000,
+    "dateSubmit": "01/01/1991",
+    "comments": ""
+}]

@@ -32,6 +32,8 @@ const Portfolio = () => {
         chartType="Bar"
         data={data}
         options={options}
+        width={"100%"}
+        height={"400px"}
       />
     </>
   );

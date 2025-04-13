@@ -31,15 +31,15 @@ const Menu = () => {
       <NavbarCollapse>
         <NavbarLink href="/home">Home</NavbarLink>
         <NavbarLink>
-          <MegaMenuDropdown toggle={<>Company</>}>
+          <MegaMenuDropdown toggle={<>Portfolio Maintainenace</>}>
             <ul className="grid grid-cols-3">
               <div className="space-y-4 p-4">
                 <li>
                   <a
-                    href="#"
+                    href="/investments"
                     className="hover:text-primary-600 dark:hover:text-primary-500"
                   >
-                    About Us
+                    Investments
                   </a>
                 </li>
                 <li>
